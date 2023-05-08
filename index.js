@@ -34,3 +34,4 @@ bot.hears(message, async (ctx) => {
 
 bot.startPolling();
 
+//xdd
